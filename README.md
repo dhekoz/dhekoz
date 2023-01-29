@@ -40,12 +40,6 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)]()
-[![website](./img/globe-dark.svg)]()
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)]()
-[![website](./img/youtube-dark.svg)]()
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
