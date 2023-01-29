@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love dogs
 
-[![Dhekoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhekoz)](https://github.com/dhekoz/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhekoz&repo=github-readme-stats)](https://github.com/dhekoz/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhekoz&layout=compact&theme=transparent)](https://github.com/dhekoz/github-readme-stats)
 
