@@ -14,7 +14,7 @@
 
 # Let's Play Chess
 Move your piece and I'll respond
-
+```html
 <div class="chess-board">
   <div class="row">
     <div class="black square"></div>
@@ -90,6 +90,28 @@ Move your piece and I'll respond
     <div class="white square"></div>
     <div class="black square"></div>
 
+```css
+.chess-board {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.row {
+  display: flex;
+}
+
+.square {
+  width: 50px;
+  height: 50px;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: white;
+}
 
 
 
