@@ -12,22 +12,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love dogs
 
-# Let's Play Chess
-Move your piece and I'll respond
-|   |   |   |   |   |   |   |   |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|   |   |   |   |   |   |   |   |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|   |   |   |   |   |   |   |   |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|   |   |   |   |   |   |   |   |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|   |   |   |   |   |   |   |   |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|   |   |   |   |   |   |   |   |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|   |   |   |   |   |   |   |   |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+(https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhekoz&layout=compact&theme=transparent)](https://github.com/dhekoz/github-readme-stats)
