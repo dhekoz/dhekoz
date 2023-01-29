@@ -1,8 +1,7 @@
-# Hey there :wave:
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-I'm Dhekoz.
+# I'm Dhekoz :wave:.
 
 - 🔭 I’m currently working on my own project at <a href ="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-reduce-method-to-analyze-data">freecodecamp</a>
 - 🌱 I’m currently learning Javascript
