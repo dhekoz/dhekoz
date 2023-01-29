@@ -39,7 +39,7 @@
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Connect with me:
-
+![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fddhekoz)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ddhekoz?style=social)
 [![website](./img/twitter-dark.svg)](https://twitter.com/@ddhekoz#gh-dark-mode-only)
 &nbsp;&nbsp;
