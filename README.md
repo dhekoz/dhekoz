@@ -112,7 +112,7 @@ Move your piece and I'll respond
 .white {
   background-color: white;
 }
-
+```
 
 
 
