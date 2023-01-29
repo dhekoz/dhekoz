@@ -118,6 +118,6 @@ Move your piece and I'll respond
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhekoz&layout=compact&theme=transparent)](https://github.com/dhekoz/github-readme-stats)
 
-![Dhekoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhekoz&show_icons=true&theme=transparent)
+[![Dhekoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhekoz&show_icons=true&theme=transparent)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dhekoz&theme=tokyonight)](https://git.io/streak-stats)
