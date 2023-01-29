@@ -14,15 +14,20 @@
 
 # Let's Play Chess
 Move your piece and I'll respond
-
-## Tim's Community Chess Tournament
-
-**Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a white (hollow) piece.
-
-|   | A | B | C | D | E | F | G | H |
-| - | - | - | - | - | - | - | - | - |
-| 8 | 
-
+|   |   |   |   |   |   |   |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|   |   |   |   |   |   |   |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|   |   |   |   |   |   |   |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|   |   |   |   |   |   |   |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|   |   |   |   |   |   |   |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|   |   |   |   |   |   |   |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|   |   |   |   |   |   |   |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhekoz&layout=compact&theme=transparent)](https://github.com/dhekoz/github-readme-stats)
