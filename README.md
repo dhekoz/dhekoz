@@ -48,7 +48,7 @@
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/
 [webdevplaylist]: https://www.youtube.com/
 [jsplaylist]: https://www.youtube.com/
 [cssplaylist]: https://www.youtube.com/
