@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I love dogs
 
 [![Dhekoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhekoz)](https://github.com/dhekoz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhekoz)](https://github.com/dhekoz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhekoz&layout=compact)](https://github.com/dhekoz/github-readme-stats)
