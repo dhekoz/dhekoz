@@ -40,7 +40,7 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/@ddhekoz#gh-light-mode-only)
+![Twitter Follow](https://img.shields.io/twitter/follow/ddhekoz?style=social)
 [![website](./img/twitter-dark.svg)](https://twitter.com/@ddhekoz#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
