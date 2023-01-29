@@ -14,105 +14,14 @@
 
 # Let's Play Chess
 Move your piece and I'll respond
-```html
-<div class="chess-board">
-  <div class="row">
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-  </div>
-  <div class="row">
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-  </div>
-  <div class="row">
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-  </div>
-  <div class="row">
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-  </div>
-  <div class="row">
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-  </div>
-  <div class="row">
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-  </div>
-  <div class="row">
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-    <div class="black square"></div>
-    <div class="white square"></div>
-  </div>
-  <div class="row">
-    <div class="white square"></div>
-    <div class="black square"></div>
 
-```css
-.chess-board {
-  display: flex;
-  flex-wrap: wrap;
-}
+## Tim's Community Chess Tournament
 
-.row {
-  display: flex;
-}
+**Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a white (hollow) piece.
 
-.square {
-  width: 50px;
-  height: 50px;
-}
-
-.black {
-  background-color: black;
-}
-
-.white {
-  background-color: white;
-}
-```
+|   | A | B | C | D | E | F | G | H |
+| - | - | - | - | - | - | - | - | - |
+| 8 | 
 
 
 
