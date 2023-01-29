@@ -13,4 +13,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhekoz&show_icons=true&theme=transparent)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dhekoz&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dhekoz&theme=tokyonight)](https://git.io/streak-stats)
