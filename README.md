@@ -1,10 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My Name is Dhekoz
 
-**dhekoz/dhekoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my own oroject
+- 🔭 I’m currently working on my own project at <a href ="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-reduce-method-to-analyze-data">freecodecamp</a>
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on every small projects
 - 🤔 I’m looking for help with functional programming
