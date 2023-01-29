@@ -9,5 +9,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love dogs
 
-Most Used Languages
-<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="349" fill="#fffefe" stroke-opacity="0"/>
+[![Dhekoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhekoz)](https://github.com/dhekoz/github-readme-stats)
