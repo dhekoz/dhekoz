@@ -1,4 +1,8 @@
-### Hi there 👋 My Name is Dhekoz
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+I'm Dhekoz.
 
 - 🔭 I’m currently working on my own project at <a href ="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-reduce-method-to-analyze-data">freecodecamp</a>
 - 🌱 I’m currently learning Javascript
@@ -9,7 +13,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love dogs
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhekoz&repo=github-readme-stats)](https://github.com/dhekoz/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhekoz&layout=compact&theme=transparent)](https://github.com/dhekoz/github-readme-stats)
 
