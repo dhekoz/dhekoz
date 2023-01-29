@@ -8,9 +8,11 @@
 - 📫 How to reach me: Twitter @DDhekoz
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love dogs
-- 
+
+[![Dhekoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhekoz)](https://github.com/dhekoz/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhekoz&layout=compact&theme=transparent)](https://github.com/dhekoz/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhekoz&show_icons=true&theme=transparent)
+![Dhekoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhekoz&show_icons=true&theme=transparent)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dhekoz&theme=tokyonight)](https://git.io/streak-stats)
